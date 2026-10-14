@@ -1,0 +1,12 @@
+city,region,rent_eur_per_m2_month,rent_month,rent_source,spending_per_person_year_eur,food,transport,utilities,leisure,other_non_housing,single_60m2_month_eur,couple_80m2_month_eur
+Madrid,Comunidad de Madrid,23.4,2026-09,"idealista/news, rental price report, 1 October 2026",10924,2212,1684,652,2382,3994,2314,3693
+Barcelona,Cataluña,20.1,2026-09,"idealista/news, rental price report, 1 October 2026",10424,2339,1700,678,1923,3784,2075,3345
+Valencia,Comunitat Valenciana,16.3,2026-09,"idealista September 2026 figure, reported by EDATV News, 7 October 2026",9927,2245,1671,582,1985,3444,1805,2959
+Málaga,Andalucía,16.5,2026-09,"idealista/news, rental price report, 1 October 2026",8880,2149,1418,551,1741,3021,1730,2800
+Alicante,Comunitat Valenciana,13.9,2026-09,"idealista rental price report, Alicante / Alacant, September 2026",9927,2245,1671,582,1985,3444,1661,2767
+Sevilla,Andalucía,13.4,2026-09,"idealista September 2026 capital prices, as tabulated by Andalucía Informa",8880,2149,1418,551,1741,3021,1544,2552
+Granada,Andalucía,10.8,2026-09,"idealista September 2026 capital prices, as tabulated by Andalucía Informa",8880,2149,1418,551,1741,3021,1388,2344
+Palma,Illes Balears,19.6,2026-09,"idealista/news, rental price report, 1 October 2026",9417,1859,1932,614,1758,3254,1961,3138
+Bilbao,País Vasco,15.7,2026-09,"idealista September 2026 report, as summarized by OI Real Estate",11503,2498,1798,608,2669,3930,1901,3173
+Murcia,Región de Murcia,9.9,2026-09,"idealista September 2026 figure, reported by Murcia Confidencial, 7 October 2026",9448,2285,1519,603,1808,3233,1381,2367
+Spain (national average),Spain,15.1,2026-09,"idealista/news, rental price report, 1 October 2026",10014,2255,1611,622,2025,3501,1741,2877
