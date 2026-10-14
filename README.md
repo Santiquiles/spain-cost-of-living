@@ -8,17 +8,17 @@ Interactive version with the method and per-city pages: **[Spain by Numbers, cos
 
 | City | Rent, €/m² a month | Single, 60 m² | Couple, 80 m² |
 |---|---|---|---|
-| Madrid | €2026-09 | €2,314 | €3,693 |
-| Barcelona | €2026-09 | €2,075 | €3,345 |
-| Valencia | €2026-09 | €1,805 | €2,959 |
-| Málaga | €2026-09 | €1,730 | €2,800 |
-| Alicante | €2026-09 | €1,661 | €2,767 |
-| Sevilla | €2026-09 | €1,544 | €2,552 |
-| Granada | €2026-09 | €1,388 | €2,344 |
-| Palma | €2026-09 | €1,961 | €3,138 |
-| Bilbao | €2026-09 | €1,901 | €3,173 |
-| Murcia | €2026-09 | €1,381 | €2,367 |
-| Spain (national average) | €2026-09 | €1,741 | €2,877 |
+| Madrid | €23.4 | €2,314 | €3,693 |
+| Barcelona | €20.1 | €2,075 | €3,345 |
+| Valencia | €16.3 | €1,805 | €2,959 |
+| Málaga | €16.5 | €1,730 | €2,800 |
+| Alicante | €13.9 | €1,661 | €2,767 |
+| Sevilla | €13.4 | €1,544 | €2,552 |
+| Granada | €10.8 | €1,388 | €2,344 |
+| Palma | €19.6 | €1,961 | €3,138 |
+| Bilbao | €15.7 | €1,901 | €3,173 |
+| Murcia | €9.9 | €1,381 | €2,367 |
+| Spain (national average) | €15.1 | €1,741 | €2,877 |
 
 Full table: [`data/spain-cost-of-living-2026.csv`](data/spain-cost-of-living-2026.csv) (10 cities, checked 2026-10-07).
 
